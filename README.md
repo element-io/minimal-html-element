@@ -53,7 +53,7 @@ element.attr();
 Note: to set an attribute `value`, the `value` must be either a `string`, `boolean`, or `number`.
 
 
-#### element.selfClosing( [bool] )
+#### element.selfClosing()
 
 Returns a `boolean` indicating if an element is a [self-closing element](http://www.w3.org/html/wg/drafts/html/master/syntax.html#elements-0).
 
