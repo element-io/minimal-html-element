@@ -1,6 +1,6 @@
 var createHTMLElement = require( './../lib' );
 
-// Create a new custom parent container...
+// Create a new parent container...
 
 var container = createHTMLElement( 'div' );
 container.attr( 'class', 'container' );

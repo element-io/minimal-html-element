@@ -87,7 +87,7 @@ element.toString();
 ## Examples
 
 ``` javascript
-// Create a new custom parent container...
+// Create a new parent container...
 
 var container = createHTMLElement( 'div' );
 container.attr( 'class', 'container' );
