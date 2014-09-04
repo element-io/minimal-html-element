@@ -1,6 +1,6 @@
 {
   "name": "minimal-html-element",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Factory for creating minimal HTML elements.",
   "author": {
     "name": "Athan Reines",
